@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Aditya Jabade! Find out more about me at https://aditya-dev5.github.io/aditya-jabade.github.io/
+- 👋 Hi, I’m Aditya Jabade! Find out more about me at https://aditya-dev5.github.io/MyProfile/
 - 👀 I’m interested in solving multidisciplinary engineering problems using math and computing. 
 - 🌱 I’m currently learning to build Deep Learning models to solve problems in Biomedical Imaging.
 - 🖥️ I’m looking to collaborate on projects involving healthcare technology, image processing, algorithm development and mathematical modeling.
