@@ -1,15 +1,14 @@
 # 👋 Hi there, I'm Aditya Jabade!
 
 🎓 **Applied Mathematician** | ⚙️ **Electronics Engineer**  
-💡 Passionate about **turning math into models and models into solutions**  
-📍 Master’s student in **Applied Mathematics** at **Columbia University (GPA 4.0)**  
+💡 **Translating complex engineering challenges into mathematical models and developing custom algorithmic solutions.** 
+📍 **Columbia University, New York**  
 
 ---
 
 ### 🧠 About Me
 - 🔬 I enjoy building **mathematical and computational models** for engineering and healthcare applications.  
 - 💻 Experienced in **image & signal processing, numerical PDEs, optimization, and deep learning**.  
-- ⚙️ I love exploring the intersection of **mathematics, computation, and technology** to solve real-world problems.  
 - 📷 Also a **wildlife photographer** and occasional **blogger** on applied math, modeling, and science communication.
 
 ---
