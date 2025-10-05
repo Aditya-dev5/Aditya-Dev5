@@ -71,12 +71,6 @@
 
 ---
 
-### 📈 GitHub Stats
-![Aditya's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Aditya-dev5&show_icons=true&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Aditya-dev5&layout=compact&theme=radical)
-
----
-
 ### 🌟 Fun Fact
 > “Mathematics is the language of nature — and algorithms are its dialects.”
 
