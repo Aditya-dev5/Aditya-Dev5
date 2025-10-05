@@ -71,7 +71,7 @@
 
 ---
 
-### 🌟 Fun Fact
+### 🌟 Personal Philosophy
 > “Mathematics is the language of nature — and algorithms are its dialects.”
 
 ---
